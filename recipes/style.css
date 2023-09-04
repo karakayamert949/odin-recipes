@@ -1,0 +1,22 @@
+h1 {
+    background-color: blueviolet;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    background-color: purple;
+    color: bisque;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p,
+li {
+    background-color: green;
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
